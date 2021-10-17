@@ -3,9 +3,9 @@ Semplice calcolatrice in Rust
 
 ---------
 ## Uso
-cargo run  x y +
+### cargo run  x y +
 
 ## Esempio
-cargo run 2 1 +
+### cargo run 2 1 +
 
 Il risultato sarà 3
